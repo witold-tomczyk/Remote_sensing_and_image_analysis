@@ -1,0 +1,7 @@
+data/images/
+data/downloads/
+.ipynb_checkpoints/
+__pycache__/
+*.bsq
+*.raw
+*.img
