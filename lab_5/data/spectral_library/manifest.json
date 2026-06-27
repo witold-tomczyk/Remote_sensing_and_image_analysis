@@ -1,0 +1,62 @@
+{
+  "source_hdr": "/workspace/lab_5/data/images/221000_Odra_HS_Blok_A_008_VS_join_atm.hdr",
+  "acquisition_date": "2022-10-15",
+  "entries": [
+    {
+      "class": "water",
+      "row": 80,
+      "col": 60,
+      "file": "water_r80_c60.csv",
+      "hdr": "221000_Odra_HS_Blok_A_008_VS_join_atm.hdr"
+    },
+    {
+      "class": "water",
+      "row": 95,
+      "col": 72,
+      "file": "water_r95_c72.csv",
+      "hdr": "221000_Odra_HS_Blok_A_008_VS_join_atm.hdr"
+    },
+    {
+      "class": "green_area",
+      "row": 40,
+      "col": 120,
+      "file": "green_area_r40_c120.csv",
+      "hdr": "221000_Odra_HS_Blok_A_008_VS_join_atm.hdr"
+    },
+    {
+      "class": "green_area",
+      "row": 55,
+      "col": 130,
+      "file": "green_area_r55_c130.csv",
+      "hdr": "221000_Odra_HS_Blok_A_008_VS_join_atm.hdr"
+    },
+    {
+      "class": "forest",
+      "row": 30,
+      "col": 40,
+      "file": "forest_r30_c40.csv",
+      "hdr": "221000_Odra_HS_Blok_A_008_VS_join_atm.hdr"
+    },
+    {
+      "class": "forest",
+      "row": 35,
+      "col": 55,
+      "file": "forest_r35_c55.csv",
+      "hdr": "221000_Odra_HS_Blok_A_008_VS_join_atm.hdr"
+    },
+    {
+      "class": "bare_soil",
+      "row": 110,
+      "col": 140,
+      "file": "bare_soil_r110_c140.csv",
+      "hdr": "221000_Odra_HS_Blok_A_008_VS_join_atm.hdr"
+    },
+    {
+      "class": "bare_soil",
+      "row": 120,
+      "col": 155,
+      "file": "bare_soil_r120_c155.csv",
+      "hdr": "221000_Odra_HS_Blok_A_008_VS_join_atm.hdr"
+    }
+  ]
+}
